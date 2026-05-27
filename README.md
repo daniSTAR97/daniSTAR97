@@ -21,7 +21,7 @@ Data Science and Analytics.
 
 ## 📊 Analytics Portfolio
 
-### 🏥 [THI Health Consulting — Sales & Performance Analysis](https://github.com/Daniel Daystar/thi-health-consulting-analysis-powerbi)
+### 🏥 [THI Health Consulting — Sales & Performance Analysis](https://github.com/daniSTAR97/thi-health-consulting-analysis-powerbi)
 Multi-page Power BI dashboard analysing consult sales, program performance,
 and call booking stats for a health consulting business. Built with a star
 schema data model, DAX measures table, and custom Date Table for time intelligence.
@@ -30,7 +30,7 @@ schema data model, DAX measures table, and custom Date Table for time intelligen
 
 ---
 
-### 🍫 [Awesome Chocolates — Sales Analytics Dashboard](https://github.com/Daniel Daystar/awesome-chocolates-sales-analytics-powerbi)
+### 🍫 [Awesome Chocolates — Sales Analytics Dashboard](https://github.com/daniSTAR97/awesome-chocolates-sales-analytics-powerbi)
 Advanced end-to-end sales analytics dashboard featuring Month-over-Month KPIs,
 dynamic trend charts with Field Parameters, shipment histogram, salesperson
 and product performance tables, bookmarks, and custom tooltip pages.
@@ -39,7 +39,7 @@ and product performance tables, bookmarks, and custom tooltip pages.
 
 ---
 
-### 🚗 [Road Accident Analysis Dashboard](https://github.com/Daniel Daystar/road-accident-analysis-powerbi)
+### 🚗 [Road Accident Analysis Dashboard](https://github.com/daniSTAR97/road-accident-analysis-powerbi)
 Public safety dashboard analysing UK road accident casualties across 2021–2022.
 Tracks fatal, serious, and slight casualties with breakdowns by vehicle type,
 road type, urban vs rural, and day vs night conditions.
@@ -48,7 +48,7 @@ road type, urban vs rural, and day vs night conditions.
 
 ---
 
-### 👟 [Adidas Sales Analysis Dashboard](https://github.com/Daniel Daystar/adidas-sales-analysis-powerbi)
+### 👟 [Adidas Sales Analysis Dashboard](https://github.com/daniSTAR97/adidas-sales-analysis-powerbi)
 Interactive sales performance dashboard for Adidas US retail data (2020–2021).
 Covers total sales, operating profit, regional distribution, product performance,
 and retailer rankings with dynamic region and date filters.
