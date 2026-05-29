@@ -48,7 +48,7 @@ road type, urban vs rural, and day vs night conditions.
 
 ---
 
-### 👟 [Adidas Sales Analysis Dashboard](https://github.com/daniSTAR97/adidas-sales-analysis-powerbi)
+### 👟 [Adidas Sales Analysis Dashboard](https://github.com/daniSTAR97/Adidas-Sales-Analysis-powerbi)
 Interactive sales performance dashboard for Adidas US retail data (2020–2021).
 Covers total sales, operating profit, regional distribution, product performance,
 and retailer rankings with dynamic region and date filters.
